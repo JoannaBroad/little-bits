@@ -1,5 +1,5 @@
 // setting up my age for the calculation
-const myAge = 30;
+const myAge = 63;
 // this is the set up for the early years of a dogs life
 let earlyYears = 2;
 earlyYears = earlyYears * 10.5;
@@ -10,7 +10,7 @@ laterYears *= 4;
 //this adds the early years and later years togather
 const myAgeInDogYears = earlyYears + laterYears;
 //this takes my name and puts it in lower case.
-let myName = "Joanna Broad".toLowerCase();
+let myName = "Neil".toLowerCase();
 //this prints my name, age and dog age in one statment.
 console.log(
   `My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`
